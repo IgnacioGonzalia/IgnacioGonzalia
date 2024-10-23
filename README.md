@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ignacio Gonzalia</h1>
-<h3 align="center">Mobile & Frontend Developer - Computer Science student</h3>
+<h1>Hi 👋, I'm Ignacio Gonzalia</h1>
+<h3>Mobile & Frontend Developer - Computer Science student</h3>
 
 ### 🛠 &nbsp;Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
